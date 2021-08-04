@@ -108,6 +108,10 @@ class Paginas
 				$module =  "views/modules/usuarios.php";
 				break;
 				//////////////////////////////////////
+			case "parqueo":
+				$module =  "views/modules/parking.php";
+				break;
+				//////////////////////////////////////
 			default:
 				$module =  "views/modules/registro.php";
 				break;

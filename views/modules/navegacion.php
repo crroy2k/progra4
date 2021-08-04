@@ -53,6 +53,12 @@
 							</a>
 						</li>
 						<li class="sidebar-item  ">
+							<a href="parqueo" class='sidebar-link'>
+								<i class="bi bi-grid-fill"></i>
+								<span>Sistema Parking</span>
+							</a>
+						</li>
+						<li class="sidebar-item  ">
 							<a href="salir" class='sidebar-link'>
 								<i class="bi bi-grid-fill"></i>
 								<span>Salir</span>
